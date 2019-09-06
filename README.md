@@ -27,3 +27,9 @@ Maven (software project management) <br>
                `-- hellocucumber
                    |-- is_it_friday_yet.feature
 ```
+
+## Screenshots
+
+![alt text](https://github.com/BurhanH/automaton-13/raw/master/screenshots/cucumber_actions_1.png "Results for Actions") <br>
+
+![alt text](https://github.com/BurhanH/automaton-13/raw/master/screenshots/cucumber_actions_2.png "Results for Actions") <br>
