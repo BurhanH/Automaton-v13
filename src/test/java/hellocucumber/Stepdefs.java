@@ -23,7 +23,7 @@ public class Stepdefs {
 
     @When("^I ask whether it is Friday yet$")
     public void iAskWhetherItIsFridayYet() {
-        actualAnswer = IsItFriday.IsItFriday(today);
+        actualAnswer = IsItFriday.isItFriday(today);
 }
 
     @Then("^I should be told \"([^\"]*)\"$")
