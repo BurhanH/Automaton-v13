@@ -14,6 +14,9 @@ Maven (software project management) <br>
 -- automaton-v13
    |-- .gitignore
    |-- .travis.yml
+   |-- .github
+   `-- workflows
+      |-- maven.yml
    |-- LICENSE
    |-- pom.xml
    |-- README.md
@@ -25,7 +28,7 @@ Maven (software project management) <br>
                   |-- Stepdefs.java
            `-- resources
                `-- hellocucumber
-                   |-- is_it_friday_yet.feature
+                  |-- is_it_friday_yet.feature
 ```
 
 ## Screenshots
