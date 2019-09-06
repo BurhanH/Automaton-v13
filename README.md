@@ -2,6 +2,7 @@
 Automation framework (UI) - an example. Based on Java, Junit, Cucumber
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BurhanH/automaton-v13/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/BurhanH/Automaton-v13.svg?branch=master)](https://travis-ci.org/BurhanH/Automaton-v13)
 
 ## Requirements
 JDK 12, Junit 4.12, Cucumber 4.2.6, <br>
