@@ -6,8 +6,8 @@ import cucumber.api.java.en.When;
 
 import static org.junit.Assert.assertEquals;
 
-class IsItFriday {
-    static String isItFriday(String today) {
+class isItFriday {
+    public static String isItFriday(String today) {
         return "Friday".equals(today) ? "TGIF" : "Nope";
     }
 }
@@ -17,17 +17,17 @@ public class Stepdefs {
     private String actualAnswer;
     
     @Given("^today is \"([^\"]*)\"$")
-    public void today_is(String today) {
+    public void todayIs(String today) {
         this.today = today;
     }
 
     @When("^I ask whether it is Friday yet$")
-    public void i_ask_whether_it_is_Friday_yet() {
-        actualAnswer = IsItFriday.isItFriday(today);
+    public void iAskWhetherItIsFridayYet() {
+        actualAnswer = isItFriday.isItFriday(today);
 }
 
     @Then("^I should be told \"([^\"]*)\"$")
-    public void i_should_be_told(String expectedAnswer) {
+    public void iShouldBeTold(String expectedAnswer) {
         assertEquals(expectedAnswer, actualAnswer);
     }
 }
