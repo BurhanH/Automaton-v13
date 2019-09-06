@@ -14,9 +14,9 @@ Maven (software project management) <br>
 -- automaton-v13
    |-- .gitignore
    |-- .travis.yml
-   |-- .github
-   `-- workflows
-      |-- maven.yml
+   `-- .github
+       `-- workflows
+          |-- maven.yml
    |-- LICENSE
    |-- pom.xml
    |-- README.md
