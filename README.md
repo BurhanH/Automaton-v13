@@ -1,5 +1,5 @@
 # Automaton-v13
-Automation framework (UI) - an example. Based on Java, Junit, Cucumber
+Automation framework - an example. Based on Java, Junit, Cucumber
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BurhanH/automaton-v13/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/BurhanH/Automaton-v13.svg?branch=master)](https://travis-ci.org/BurhanH/Automaton-v13)
@@ -27,3 +27,9 @@ Maven (software project management) <br>
                `-- hellocucumber
                    |-- is_it_friday_yet.feature
 ```
+
+## Screenshots
+
+![alt text](https://github.com/BurhanH/automaton-13/raw/master/screenshots/cucumber_actions_1.png "Results for Actions") <br>
+
+![alt text](https://github.com/BurhanH/automaton-13/raw/master/screenshots/cucumber_actions_2.png "Results for Actions") <br>
