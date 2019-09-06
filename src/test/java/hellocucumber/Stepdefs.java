@@ -7,7 +7,7 @@ import cucumber.api.java.en.When;
 import static org.junit.Assert.assertEquals;
 
 class IsItFriday {
-    public static String IsItFriday(String today) {
+    public static String isItFriday(String today) {
         return "Friday".equals(today) ? "TGIF" : "Nope";
     }
 }
