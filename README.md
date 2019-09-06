@@ -30,6 +30,6 @@ Maven (software project management) <br>
 
 ## Screenshots
 
-![alt text](https://github.com/BurhanH/automaton-13/raw/master/screenshots/cucumber_actions_1.png "Results for Actions") <br>
+![alt text](https://github.com/BurhanH/automaton-v13/raw/master/screenshots/cucumber_actions_1.png "Results for Actions") <br>
 
-![alt text](https://github.com/BurhanH/automaton-13/raw/master/screenshots/cucumber_actions_2.png "Results for Actions") <br>
+![alt text](https://github.com/BurhanH/automaton-v13/raw/master/screenshots/cucumber_actions_2.png "Results for Actions") <br>
