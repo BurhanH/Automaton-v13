@@ -5,6 +5,8 @@ Automation testing framework - an example. Based on Java, Junit, Cucumber
 [![Build Status](https://travis-ci.org/BurhanH/Automaton-v13.svg?branch=master)](https://travis-ci.org/BurhanH/Automaton-v13)
 ![Java CI](https://github.com/BurhanH/automaton-v13/workflows/Java%20CI/badge.svg?branch=master)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5f5fd425025c4fb78d3686c58428fc34)](https://www.codacy.com/manual/BurhanH/Automaton-v13?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BurhanH/Automaton-v13&amp;utm_campaign=Badge_Grade)
+[![HitCount](http://hits.dwyl.com/BurhanH/automaton-v13.svg)](http://hits.dwyl.com/BurhanH/automaton-v13)
+
 
 ## Requirements
 JDK 12, Junit 4.12, Cucumber 4.2.6, <br>
