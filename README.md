@@ -3,7 +3,6 @@ Automation testing framework - an example. Based on Java, Junit, Cucumber
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BurhanH/automaton-v13/blob/master/LICENSE)
 ![Java CI](https://github.com/BurhanH/automaton-v13/workflows/Java%20CI/badge.svg?branch=master)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5f5fd425025c4fb78d3686c58428fc34)](https://www.codacy.com/manual/BurhanH/Automaton-v13?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BurhanH/Automaton-v13&amp;utm_campaign=Badge_Grade)
 
 
 ## Requirements
